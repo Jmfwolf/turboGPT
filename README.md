@@ -3,24 +3,7 @@ This project provides a Java application that allows users to use OpenAI's GPT-3
 
 ## Design and Development Plan
 
-I plan to design and develop the ChatGPT client app in several stages, with each stage building upon the previous one. The development process will follow the Agile methodology, with an emphasis on collaboration, iteration, and continuous improvement.
-
-Here's an overview of the development plan:
-
-1. Design and Planning Phase: In this phase, I will define the scope of the project, create user personas, and develop user stories.
-
-2. Development Phase 1: In this phase, I will develop the core functionality of the app, including the ability to generate text using the OpenAI GPT-3.5 Turbo endpoint, store and retrieve generated text, and update the OpenAI GPT-3.5 Turbo endpoint client SDK.
-
-3. Testing and Feedback Phase 1: In this phase, I will conduct unit tests and integration tests to ensure that the app is working as intended. I will also gather feedback from users to identify areas for improvement and to validate any assumptions.
-
- 4. Development Phase 2: In this phase, I will focus on adding additional features and improving the user experience. This may include features such as customization options, privacy settings, and support for different languages.
-
-5. Testing and Feedback Phase 2: In this phase, I will continue to test the app and gather feedback from users. I will use this feedback to make further improvements to the app.
-
-6. Release Phase: In this phase, I will prepare the app for release to the public. This may include creating documentation, setting up a website or landing page.
-
-Throughout each stage of the development process, I will prioritize collaboration, communication, and transparency. I will use tools such as GitHub Issues and Pull Requests to track progress and share updates with the community. I also welcome feedback and contributions from the open-source community to help improve the app.
-
+Please Look at the turboGPT_design in the docs directory
 
 # Credits and Acknowledgements
 
