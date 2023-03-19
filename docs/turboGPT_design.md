@@ -31,7 +31,7 @@
 
 ## Introduction
 
-turboGPT is a portable Java application designed to provide users with a customizable and private way to access the OpenAI GPT-3.5 Turbo endpoint. With turboGPT, users can access ChatGPT without the need for a Ib browser and customize various aspects of the app, such as font size, color scheme, and chat history settings.
+turboGPT is a portable Java application designed to provide users with a customizable and private way to access the OpenAI GPT-3.5 Turbo endpoint. With turboGPT, users can access ChatGPT without the need for a browser and customize various aspects of the app, such as font size, color scheme, and chat history settings.
 
 The app is designed with a three-tier architecture that separates the presentation layer, business layer, and data layer. The presentation layer consists of a Java Swing-based GUI that provides users with a chat interface and customization options. The business layer includes a Java-based client SDK that interacts with the OpenAI GPT-3.5 Turbo endpoint through a REST API. The data layer includes a SQLite database that stores chat history and user settings.
 
@@ -39,7 +39,7 @@ The data model for turboGPT includes entities such as users, chat sessions, and 
 
 ## User Stories
 
-1. As a user, I want to be able to access ChatGPT from a portable app, so that I can use it without needing a Ib browser.
+1. As a user, I want to be able to access ChatGPT from a portable app, so that I can use it without needing a browser.
 2. As a user, I want to be able to customize the font size and color scheme of the app, so that I can use it comfortably.
 3. As a user, I want to be able to adjust the chat history settings, so that I can manage my chat history.
 4. As a user, I want to be able to use the app offline, so that I can continue to use it even when I have a poor internet connection.
