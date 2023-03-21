@@ -7,7 +7,7 @@ Please Look at the turboGPT_design in the docs directory
 
 ## Updates
 
-The OpenAPI specification needs work before it can be used to generate SDKs heavily typed lanugages such as Java. 
+- 3/21: The OpenAPI specification needs work before it can be used to generate SDKs heavily typed lanugages such as Java. 
 https://github.com/openai/openai-openapi/pull/33
 
 ## Credits and Acknowledgements
